@@ -1,0 +1,22 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(MyOSOnlineAssignment.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  OSprogram.cpp
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(528,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(690,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(754,20): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(988,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(1142,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(1229,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(1367,23): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(1609,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(1967,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(2339,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(2669,26): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(2761,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(2839,22): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3061,8): warning C4101: “FileName”: 未引用的局部变量
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3062,7): warning C4101: “p”: 未引用的局部变量
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3071,9): warning C4101: “pos”: 未引用的局部变量
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3126,16): warning C4101: “i_uof2”: 未引用的局部变量
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3126,8): warning C4101: “i_uof1”: 未引用的局部变量
+D:\C++ code\os\MyOSOnlineAssignment\OSprogram.cpp(3259,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyOSOnlineAssignment.vcxproj -> D:\C++ code\os\x64\Debug\operatingsystem.exe
