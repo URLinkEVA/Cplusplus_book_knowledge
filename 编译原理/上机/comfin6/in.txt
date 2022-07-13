@@ -1,0 +1,1 @@
+int$ox55,$o,$n;$ox55=4;$o=74;$n=4;$n=82+570*4;while($ox55*628<$n*7)do$o=$n+8; if($o!=$ox55+2)then$n=$o*303;else$n=$n*11;
